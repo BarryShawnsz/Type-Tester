@@ -224,14 +224,7 @@ module.exports = {
         variation: {
             axes: [],
             render: true
-        },
-       wght: {
-                init: 600,
-                min: 250,
-                max: 900,
-                step: 10,
-                label: "Weight",
-       },
+        }
     }
 }
 
